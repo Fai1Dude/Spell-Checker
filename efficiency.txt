@@ -1,0 +1,20 @@
+k = lenght of String
+n = number of words in dictionary
+
+initialization:
+Dictionary()
+O(1)
+Dictionary(String word)
+O(k)
+Dictionary(File dictionary)
+O(k*n)
+
+Mathods:
+addword(String word)
+O(k)
+removeword(String word)
+O(k)
+findword(String word)
+O(k)
+findSimilar(String word)
+O(k^2)
