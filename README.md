@@ -55,7 +55,7 @@ remove word> banana
 Dictionary saved successfully.
 ```
 
-⏱️ Algorithmic complexity
+# ⏱️ Algorithmic complexity
 Operation	Time	Notes
 addWord, findWord, deleteWord	O(k)	k = word length
 Load file of n words	O(k · n)	each insert is O(k)
