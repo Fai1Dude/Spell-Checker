@@ -1,9 +1,8 @@
-# Java Trie Dictionary 🔤
+# Spell Checker - Dictinary to correct spelling if wrong 🔤
 
-A compact Java console application that loads a word list into a **Trie**
-and lets you **query, add, delete, search “one-letter-off” words, and
-optionally save** the updated dictionary back to disk.  
-Perfect for data-structure labs or quick spelling-helper demos. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+A compact Java console application that loads a word list into a **Trie** and lets you **query, add, delete, search “one-letter-off” words, and optionally save** the updated dictionary back to disk.  
+Perfect for data-structure labs or quick spelling-helper demos.
+
 
 ---
 
