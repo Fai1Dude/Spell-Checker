@@ -32,7 +32,7 @@ Perfect for data-structure labs or quick spelling-helper demos.
 └─ efficiency.txt # Big-O cheat-sheet for each method
 
 *The trie node is an inner `TrieNode` class with a 26-length child array
-and a boolean `isEndOfWord` flag.* :contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}
+and a boolean `isEndOfWord` flag.* 
 
 ---
 
